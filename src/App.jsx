@@ -25,6 +25,9 @@ function App() {
         style={{ backgroundColor: 'violet', color: 'white', padding: '10px', border: 'none', borderRadius: '5px' }}
 >Click Button 2</button>
         <button onClick={()=>alert('Hi shahana')}>Shahana</button>
+        </button><br/>
+        <button onClick={()=>{alert('I am thara1')}}>Show</button>
+
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
