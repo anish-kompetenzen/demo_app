@@ -27,6 +27,7 @@ function App() {
           count is {count}
         </button>
         <button onClick={()=>alert(`clicked button 2`)}>Click Button 2</button>
+        <button onClick={()=>alert('Hi shahana')}>Shahana</button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
